@@ -8,7 +8,7 @@ Well VIM Money Troll is here to help.  Impress your non-vim friends with this re
 
 ## Installation instructions
 
-git clone git@github.com:emileswarts/vim-money-troll.git ~/.vim/bundle/
+    git clone git@github.com:emileswarts/vim-money-troll.git ~/.vim/bundle/
 
 In your .vimrc, add the following.
 
